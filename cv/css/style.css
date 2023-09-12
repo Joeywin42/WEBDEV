@@ -1,0 +1,30 @@
+
+body{
+    margin: 20;
+    
+}
+nav{
+    display: flex;
+    justify-content: right;
+    background-color: beige;
+    font-size: larger;
+    
+    
+}
+nav a{
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+nav a:hover {
+    color: red;
+    text-decoration: underline;
+}
+footer{
+    background-color: #aeaeae;
+    font-size: small;
+    display: flex;
+    justify-content: center;
+
+}
